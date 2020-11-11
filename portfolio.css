@@ -1,0 +1,151 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  background-color: #f9f9f9;
+  width: 980px;
+}
+
+h3{
+  margin-left: 480px;
+  margin-top: 10px;
+  font-size: 90%;
+}
+
+.topbar{
+  padding: 10px;
+  display: inline-block;
+  vertical-align: top;
+  font-family: Arial, sans-serif;
+}
+
+#wrapper{
+  height: 1000px;
+  width: 970px;
+  padding: 0px;
+  background-image: radial-gradient(circle, #6f5964,#58444d, #1d0c11);
+}
+
+#row{
+  height: 300px;
+  width: 970px;
+  padding: 10px;
+}
+
+.me_photo{
+  height: 280px;
+  width: 400px;
+  margin-left: 0px;
+  border: 10px solid #b5b3b4;
+  display: inline-block;
+}
+
+#about_me{
+  margin-left: 20px;
+  height: 300px;
+  width: 503px;
+  display: inline-block;
+  vertical-align: top;
+  background-color: white;
+}
+
+#about_me h4{
+  background-image: linear-gradient(lightgrey, grey, lightgrey);
+  height: 30px;
+  padding-top: 10px;
+  padding-left: 10px;
+  color: whitesmoke;
+  font-family: alrial;
+}
+
+#about_me p{
+  background-color: white;
+  margin: 10px;
+}
+
+#about_me a{
+  background-color: white;
+  text-decoration-color: purple;
+  margin-left: 10px;
+}
+
+.column{
+  height: 510px;
+  width: 300px;
+  margin: 10px;
+  display: inline-block;
+  vertical-align: top;
+  background-color: white;
+}
+
+.column h2{
+  height: 30px;
+  background-image: linear-gradient(lightgrey, grey, lightgrey);
+  padding-left: 10px;
+  color: whitesmoke;
+}
+
+.main_image{
+  height: 200px;
+  width: 300px;
+}
+
+.column p{
+  height: 70px;
+  font-size: 70%;
+  margin: 5px;
+  display: inline-block;
+}
+
+.column h3{
+  margin: 0px;
+  height: 20px;
+  padding: 5px;
+  width: 290px;
+  display: inline-block;
+  color: whitesmoke;
+  background-image: linear-gradient(lightgrey, grey, lightgrey);
+}
+
+.icons{
+  height: 40px;
+  width: 40px;
+  margin: 5px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.column button{
+  display: block;
+  margin-left: 38%;
+  margin-top: 30px;
+  background-color: green;
+  border-radius: 5px;
+  color: white;
+}
+
+#footer{
+  height: 60px; 
+  width: 970px;
+  background-color: lightgrey;
+  padding-top: 20px;
+}
+
+#footer p{
+  display: block;
+  margin-left: 400px;
+  margin-bottom: 5px;
+}
+
+#footer img{
+  height: 20px;
+  width: 20px;
+  display: inline-block;  
+}
+
+.tiny_align{
+  margin-left: 350px;
+}
+
